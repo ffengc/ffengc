@@ -16,13 +16,11 @@ Hello, I'm Yu.
 - 🌱 Hobbies: pop music, guitar ...
 
 
-![](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=dark&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufccode&theme=dark&layout=compact)
-
-
-
 <!--
 **Yufccode/Yufccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufccode&theme=dark&layout=compact)
 
 Here are some ideas to get you started:
 
