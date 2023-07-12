@@ -15,7 +15,7 @@ Hello, I'm Yu.
 - 💬 My area of expertise is server backend development.
 - 💬 At the same time, I also focus on other areas, C/C++ programming, operating system programming, Computer Vision, Deep Learning Research...
 - 📫 How to reach me: yufc779@gmail.com
-- 🌱 Hobbies: pop music, guitar ...
+- 🌱 Hobbies: pop music, blues, jazz
 
 
 <!--
