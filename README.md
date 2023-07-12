@@ -14,7 +14,7 @@ Hello, I'm Yu.
 - 🇨🇳 I currently learn English.
 - 💬 My area of expertise is server backend development.
 - 💬 At the same time, I also focus on other areas, C/C++ programming, operating system programming, Computer Vision, Deep Learning Research...
-- 📫 How to reach me: yufch3@mail2.sysu.edu.cn
+- 📫 How to reach me: yufc779@gmail.com
 - 🌱 Hobbies: pop music, guitar ...
 
 
