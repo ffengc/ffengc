@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Hello, I'm Yu.
-
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=server backend development&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Operating System&color=red"/>
