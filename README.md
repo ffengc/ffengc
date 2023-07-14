@@ -9,7 +9,7 @@
 
 - 👨‍💼 I currently study in SYSU, Shenzhen, China.
 - 🇨🇳 I currently learn English.
-- 💬 My area of expertise is server backend development.
+- 💬 server backend development.
 - 💬 At the same time, I also focus on other areas, C/C++ programming, operating system programming, Computer Vision, Deep Learning Research...
 - 📫 How to reach me: yufc779@gmail.com
 - 🌱 Hobbies: pop music, blues, jazz
