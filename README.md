@@ -14,6 +14,8 @@
 - 📫 How to reach me: yufc779@gmail.com
 - 🌱 Hobbies: pop music, blues, jazz
 
+![](https://github-readme-stats.vercel.app/api?username=Yufccode)
+
 
 <!--
 **Yufccode/Yufccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
