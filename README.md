@@ -28,11 +28,8 @@
 - 💬 At the same time, I also focus on other areas, C/C++ programming, operating system programming, Computer Vision, Deep Learning Research...
 - 📫 How to reach me: yufc779@gmail.com
 - 🌱 Hobbies: pop music, blues, jazz
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=dark&rank_icon=github&hide=prs,contribs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=default&rank_icon=github&hide=prs,contribs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufccode&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
