@@ -16,9 +16,9 @@
 ### Hi there 👋
 
 <p>
-<img src="https://img.shields.io/static/v1?label=Focus&message=server backend development&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Focus&message=server backend development&color=important"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=Operating System&color=red"/>
-<img src="https://img.shields.io/static/v1?label=Focus&message=redis&color=green"/>
+<img src="https://img.shields.io/static/v1?label=Focus&message=redis&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=Cplusplus&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=Linux OS&color=pink"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=DeepLearning&color=blue"/>
