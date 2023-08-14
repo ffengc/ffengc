@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/static/v1?label=Focus&message=DeepLearning&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=MySQL&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=University&message=SYSU&color=green"/>
-
 </p>
 
 
