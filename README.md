@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/static/v1?label=Focus&message=redis&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=Cplusplus&color=yellow"/>
 
-
 </p>
 
 <p>
