@@ -4,8 +4,8 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=Focus&message=server backend development&color=purple"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=Operating System&color=red"/>
+<img src="https://img.shields.io/static/v1?label=Focus&message=docker System&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=redis&color=blue"/>
-<img src="https://img.shields.io/static/v1?label=Focus&message=Cplusplus&color=yellow"/>
 </p>
 
 <p>
@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/static/v1?label=Focus&message=DeepLearning&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=Focus&message=MySQL&color=orange"/>
 <img src="https://img.shields.io/static/v1?label=University&message=SYSU&color=green"/>
+<img src="https://img.shields.io/static/v1?label=Focus&message=Cplusplus&color=yellow"/>
 </p>
 
 - 👨‍💼 I currently study in SYSU, Shenzhen, China.
