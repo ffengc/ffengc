@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-***
-
 🎓 Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/)
 
 💻 Interested in Backend Development, Operating System, Deep Learning, Computer Version
@@ -11,8 +9,6 @@
 📫 Email:  yufc779@gmail.com
 
 🌱 Hobbies: pop music, blues, jazz
-
-***
 
 👷 **Check out what I'm currently working on**
 
