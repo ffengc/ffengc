@@ -21,7 +21,7 @@
 
 📜 **Check out some of my blog posts**
 
-- [🌟Good blog summary column](http://t.csdnimg.cn/XSF2P)
+- [🌟Good blog summary column](https://blog.csdn.net/yu_cblog/category_12379430.html?spm=1001.2014.3001.5482)
 - [🌟Git企业开发控制理论和实操专栏](https://blog.csdn.net/yu_cblog/category_12419275.html?spm=1001.2014.3001.5482)
 - [🌟Docker从认识到实践再到底层原理专栏](https://blog.csdn.net/yu_cblog/category_12424689.html?spm=1001.2014.3001.5482)
 - [Apache和Nginx是什么？｜Nginx和Reactor是什么？｜网路IO的本质｜阻塞队列｜异步非阻塞IO](http://t.csdnimg.cn/kGP1D)
