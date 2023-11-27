@@ -18,7 +18,6 @@
 
 - [Yufccode/MIT6.824](https://github.com/Yufccode/MIT6.824) - I'm currently learning this course, here is my logs and codes
 
-
 📜 **Check out some of my blog posts**
 
 - [🌟Good blog summary column](https://blog.csdn.net/yu_cblog/category_12379430.html?spm=1001.2014.3001.5482)
