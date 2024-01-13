@@ -16,13 +16,13 @@
 
 - [Yufccode/Load-balanced-online-OJ-system](https://github.com/Yufccode/Load-balanced-online-OJ-system) - This is a load-balanced OJ system project
 
-- [https://github.com/Yufccode/STL-based-database-operation-simulation-sysu-main](https://github.com/Yufccode/STL-based-database-operation-simulation-sysu-main)
-
 - [Yufccode/MIT6.824](https://github.com/Yufccode/MIT6.824) - I'm currently learning this course, here is my logs and codes
 
 - [https://github.com/Yufccode/CPlusPlus-review-main](https://github.com/Yufccode/CPlusPlus-review-main) - I'm currently reviewing C++ related knowledge points
 
 - [https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review](https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
+
+- [Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/Yufccode/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
 
 📜 **Check out some of my blog posts**
 
