@@ -35,7 +35,7 @@
 
 🌟 **Check out my most used language**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufccode\&layout=compact)
 
 🌱 **Check out my contributions**
 
