@@ -33,10 +33,9 @@
 - [什么是IO？IO的本质？｜如何让IO变得高效？何为高效？｜异步IO｜多路转接｜reactor模式](http://t.csdnimg.cn/bMrwH)
 - [关于debug一晚上的一些思考，做开发到底要养成什么习惯？](https://blog.csdn.net/Yu_Cblog/article/details/130333398)
 
-🌟 **Check out my stars**
+🌟 **Check out my most used language**
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=dark&rank_icon=github&hide=prs,contribs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yufccode&show_icons=true&theme=default&rank_icon=github&hide=prs,contribs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 
 🌱 **Check out my contributions**
 
