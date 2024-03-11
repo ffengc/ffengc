@@ -12,12 +12,6 @@
 
 🌱 Hobbies: pop music, blues, jazz
 
-🎓 **Check out my papers**
-
-- [Google Scholar Home Page](https://scholar.google.com/citations?user=cf1g9Z8AAAAJ&hl=zh-CN)
-
-- [Parkinson's severity diagnosis explainable model based on 3D multi-head attention residual network(Computers in Biology and Medicine 2024)](https://www.sciencedirect.com/science/article/pii/S001048252400043X)
-
 👷 **Check out what I'm currently working on**
 
 - [Yufccode/Load-balanced-online-OJ-system](https://github.com/Yufccode/Load-balanced-online-OJ-system) - This is a load-balanced OJ system project
