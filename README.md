@@ -1,3 +1,5 @@
+![](https://github.com/Matthew-Lyu/Matthew-Lyu/blob/main/assets/Bottom_up.svg)
+
 ### Hi there 👋
 
 🎓 Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/)
