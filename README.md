@@ -23,11 +23,3 @@
 - [https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review](https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
 
 - [Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/Yufccode/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
-
-🌟 **Check out my most used language**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yufccode\&layout=compact)
-
-🌱 **Check out my contributions**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yufccode&theme=github)
