@@ -16,9 +16,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Yufccode
       - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const exec = require('@actions/exec');
+            await exec.exec('git config user.name "github-actions"');
+            await exec.exec('git config user.email "github-actions@github.com"');
+            await exec.exec('git add -A .');
+            const commitMessage = 'generated';
+            await exec.exec(`git commit -m "${commitMessage}"`);
+            await github.git.push({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'refs/heads/main', // 确保这里的分支名称与你要推送的分支一致
+            });
+          github-token: ${{ secrets.TOKEN }}
