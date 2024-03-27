@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+with:
+  token: ${{ secrets.GH_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
