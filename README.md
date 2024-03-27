@@ -1,4 +1,3 @@
-![](https://github.com/Matthew-Lyu/Matthew-Lyu/blob/main/assets/Bottom_up.svg)
 ### Hi there 👋
 
 🎓 Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/)
@@ -25,3 +24,7 @@
 - [https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review](https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
 
 - [Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/Yufccode/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
+
+✨ **Contributions**
+
+
