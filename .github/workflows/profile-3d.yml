@@ -12,10 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         env:
           USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
