@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🎓 I'm a Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/).
 - 🧱 My major is Intelligent Science and Technology.
