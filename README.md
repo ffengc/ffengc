@@ -1,11 +1,11 @@
 # Hi there 👋
 
-- 🎓 I'm a Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/).
-- 🧱 My major is Intelligent Science and Technology.
-- 💻 I am interested in Backend Development, Operating System, Deep Learning, Computer Version.
-- 🖋 Here's my blog in CSDN: [@背包](https://blog.csdn.net/Yu_Cblog?spm=1000.2115.3001.5343)
+- 🎓 I'm a Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/). 🧱 My major is Intelligent Science and Technology.
+- 💻 I am interested in machine learning, deep learning, artificial intelligence, virtualization development, and big data development.
 - 📫 How to reach me:
-  - Email:  yufc779@gmail.com
+  - 📮Email:  yufc779@gmail.com
+  - 🖊️Blog in CSDN: [@背包](https://blog.csdn.net/Yu_Cblog)
+  - My Homepage: [Fengcheng Yu](https://yufccode.github.io)
 - **Check out what I'm currently working on**
   - [Yufccode/Load-balanced-online-OJ-system](https://github.com/Yufccode/Load-balanced-online-OJ-system) - This is a load-balanced OJ system project
   - [Yufccode/MIT6.824](https://github.com/Yufccode/MIT6.824) - I'm currently learning this course, here is my logs and codes
