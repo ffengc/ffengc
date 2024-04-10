@@ -12,7 +12,3 @@
   - [https://github.com/Yufccode/CPlusPlus-review-main](https://github.com/Yufccode/CPlusPlus-review-main) - I'm currently reviewing C++ related knowledge points
   - [https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review](https://github.com/Yufccode/OperatingSys_ComputerNetwork_Review) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
   - [Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/Yufccode/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
-
-✨ **Contributions**
-
-![](./profile-3d-contrib/profile-green-animate.svg)
