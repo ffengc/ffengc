@@ -10,8 +10,8 @@
 - **Check out what I'm currently working on**
   - [ffengc/Load-balanced-online-OJ-system](https://github.com/ffengc/Load-balanced-online-OJ-system) - This is a load-balanced OJ system project
   - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - I'm currently learning this course, here is my logs and codes
-  - [https://github.com/ffengc/CPlusPlus-review-main](https://github.com/ffengc/CPlusPlus-review-main) - I'm currently reviewing C++ related knowledge points
-  - [https://github.com/ffengc/OperatingSys_ComputerNetwork_Review](https://github.com/ffengc/OperatingSys_ComputerNetwork_Review) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
-  - [Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
-  - [Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) - my new project is completed and opensource 🎉
-  - [Google-tcmalloc-simulation-implementation](https://github.com/ffengc/Google-tcmalloc-simulation-implementation) - tcmalloc project learning logs
+  - [ffengc/CPlusPlus-review-main](https://github.com/ffengc/CPlusPlus-review-main) - I'm currently reviewing C++ related knowledge points
+  - [ffengc/OperatingSys_ComputerNetwork_Review-main](https://github.com/ffengc/OperatingSys_ComputerNetwork_Review-main) - I'm currently reviewing the knowledge points of the Operating System and the Computer Network
+  - [ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi) - This is an operations research modeling project.
+  - [ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) - my new project is completed and opensource 🎉🎉
+  - [ffengc/Google-tcmalloc-simulation-implementation](https://github.com/ffengc/Google-tcmalloc-simulation-implementation) - tcmalloc project learning logs (new project)🎉🎉
