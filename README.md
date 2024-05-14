@@ -4,6 +4,7 @@
 - 🎓 I'm a Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/). 🧱 My major is Intelligent Science and Technology.
 - 💻 I am interested in machine learning, deep learning, artificial intelligence, virtualization development, and big data development.
 - 📫 How to reach me:
+  - 🏡github-repo: [contact-me](https://github.com/ffengc/contact-me) you can contact me by leaving issue in this repo
   - 📮Email:  yufc779@gmail.com
   - 🖊️Blog in CSDN: [@背包](https://blog.csdn.net/Yu_Cblog)
   - My Homepage: [Fengcheng Yu](https://ffengc.github.io)
