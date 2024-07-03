@@ -15,3 +15,4 @@
   - [ffengc/Google-tcmalloc-simulation-implementation](https://github.com/ffengc/Google-tcmalloc-simulation-implementation) - tcmalloc project learning logs (new project)🎉🎉
   - [Blog Page](https://ffengc.github.io/gh-blog/) - my blog page is published🎉🎉
   - [NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) NLP course final project(comming soon🎉🎉)
+  - [Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) new project (comming soon🎉🎉)
