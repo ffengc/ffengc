@@ -16,3 +16,4 @@
   - [Blog Page](https://ffengc.github.io/gh-blog/) - my blog page is published🎉🎉
   - [NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) NLP course final project(comming soon🎉🎉)
   - [Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) new project is completed and opensource 🎉🎉
+  - [boost-search-engine](https://github.com/ffengc/boost-search-engine) new project comming soon (developing)🎉🎉
