@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub User's stars](https://img.shields.io/github/stars/ffengc?style=flat&logo=github&label=My%20stars&color=green)
+![GitHub followers](https://img.shields.io/github/followers/ffengc?style=flat&logo=GitHub&color=red)
 
 - 🎓 I'm a Third year undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/). 🧱 My major is Intelligent Science and Technology.
 - 💻 I am interested in machine learning, deep learning, artificial intelligence, virtualization development, and big data development.
