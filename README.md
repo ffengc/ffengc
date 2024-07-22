@@ -16,7 +16,6 @@
   - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - I'm currently learning this course, here is my logs and codes
   - [ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) - my new project is completed and opensource 🎉🎉
   - [ffengc/Google-tcmalloc-simulation-implementation](https://github.com/ffengc/Google-tcmalloc-simulation-implementation) - tcmalloc project learning logs (new project)🎉🎉
-  - [Blog Page](https://ffengc.github.io/gh-blog/) - my blog page is published🎉🎉
-  - [NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) NLP course final project(comming soon🎉🎉)
+  - [NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) NLP course final project🎉🎉
   - [Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) new project is completed and opensource 🎉🎉
   - [boost-search-engine](https://github.com/ffengc/boost-search-engine) new project is completed and opensource 🎉🎉
