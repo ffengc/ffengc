@@ -19,7 +19,7 @@
   - [ffengc/Reactor-based-HyperWebServer](https://github.com/ffengc/Reactor-based-HyperWebServer) - A HTTP server based on Reactor forwarding mode implemented from scratch.
   - [ffengc/boost-search-engine](https://github.com/ffengc/boost-search-engine) - search engine project based on boost library. (new prj🎉)
   - [ffengc/HareMQ](https://github.com/ffengc/HareMQ) - A C++ version of the simplified message queue component is implemented based on RabbitMQ.
-  - [ffengc/Multi-Pattern-Logging-System](https://github.com/ffengc/Multi-Pattern-Logging-System) - C++ version of synchronous & asynchronous logging system based on multiple(6) design patterns. (new prj🎉, comming soon)
+  - [ffengc/Multi-Pattern-Logging-System](https://github.com/ffengc/Multi-Pattern-Logging-System) - C++ version of synchronous & asynchronous logging system based on multiple(6) design patterns.
  
 
 <!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ffengc&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
