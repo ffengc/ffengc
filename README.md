@@ -11,6 +11,22 @@
   - Blog in Github: [Blog Page](https://ffengc.github.io/gh-blog/) 
   - Blog in CSDN: [@背包](https://blog.csdn.net/Yu_Cblog)
   - My Homepage: [Fengcheng Yu](https://ffengc.github.io)
+- 🧑‍🏫**Course Projects**
+  - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - Experiment of Distributed Computing
+  - [ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases](https://github.com/ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases) - Deep Learning
+  - [ffengc/CollegeWorks](https://github.com/ffengc/CollegeWorks) - Unorganized partial course code
+  - [ffengc/Simulation-and-Reproduction-of-Planning-Algorithm-Based-on-SLAM](https://github.com/ffengc/Simulation-and-Reproduction-of-Planning-Algorithm-Based-on-SLAM) - Fundamental of Cognitive Science
+  - [ffengc/Plant-Pathology-sysu-2023](https://github.com/ffengc/Plant-Pathology-sysu-2023) - Computer Vision
+  - [ffengc/STL-based-database-operation-simulation-sysu-main](https://github.com/ffengc/STL-based-database-operation-simulation-sysu-main/) - Advanced Programming Technology
+  - [ffengc/STL-based-Deque-implementation](https://github.com/ffengc/STL-based-Deque-implementation) - [Advanced Programming Technology]
+  - [ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi) -  Operations Research
+  - [ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) - Operating Systems
+  - [ffengc/Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) - Operating Systems
+  - [ffengc/ZDSwap](https://github.com/ffengc/ZDSwap) - Software Engineering
+  - [ffengc/Modern-Control-Theory-Final-Review](https://github.com/ffengc/Modern-Control-Theory-Final-Review) - Modern Control Theory
+  - [ffengc/NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) - NLP
+  - [ffengc/TSP-Solutions-and-Analysis](https://github.com/ffengc/TSP-Solutions-and-Analysis) - Intelligent Control and Computing
+  - [**](**) - Technology of Computer Control
 - 🔧**Select Projects**
   - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - I took the MIT distributed systems course, here's my logs and codes.
   - [ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) and [Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) - The message communication framework I organized, includes request/response type and event-driven type.
