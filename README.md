@@ -27,7 +27,7 @@
     - [ffengc/Simulation-and-Reproduction-of-Planning-Algorithm-Based-on-SLAM](https://github.com/ffengc/Simulation-and-Reproduction-of-Planning-Algorithm-Based-on-SLAM) - Fundamental of Cognitive Science
     - [ffengc/Plant-Pathology-sysu-2023](https://github.com/ffengc/Plant-Pathology-sysu-2023) - Computer Vision
     - [ffengc/STL-based-database-operation-simulation-sysu-main](https://github.com/ffengc/STL-based-database-operation-simulation-sysu-main/) - Advanced Programming Technology
-    - [ffengc/STL-based-Deque-implementation](https://github.com/ffengc/STL-based-Deque-implementation) - [Advanced Programming Technology]
+    - [ffengc/STL-based-Deque-implementation](https://github.com/ffengc/STL-based-Deque-implementation) - Advanced Programming Technology
     - [ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi](https://github.com/ffengc/Pulp-Carrier-Loading-Optimization-with-Gurobi) -  Operations Research
     - [ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework](https://github.com/ffengc/Dual-Thread-Pool-Based-Pipeline-Communication-System-Framework) - Operating Systems
     - [ffengc/Event-Driven-Pipeline-Communication-System-Framework](https://github.com/ffengc/Event-Driven-Pipeline-Communication-System-Framework) - Operating Systems
