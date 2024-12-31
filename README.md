@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/ffengc?style=flat&logo=github&label=My%20stars&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/ffengc?style=flat&logo=GitHub&color=red)
 
-- 🎓 I'm a senior undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/). 🧱 My major is Intelligent Science and Technology - Computer Science.
+- 🎓 I'm a senior undergraduate student at [SUN YAT-SEN UNIVERSITY](https://www.sysu.edu.cn/). 🧱 My major is Intelligence Science and Technology - Computer Science.
 - 💻 I am interested in system/network programming, distributed system programming, system performance optimization, machine learning, deep learning, artificial intelligence, virtualization development, big data development.
 - 📫 **How to reach me:**
   - github-repo: [ffengc-issue](https://github.com/ffengc/ffengc) you can contact me by leaving issue in this repo
