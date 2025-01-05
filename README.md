@@ -20,7 +20,7 @@
   - [ffengc/boost-search-engine](https://github.com/ffengc/boost-search-engine) - search engine project based on boost library. (new prj🎉)
   - [ffengc/HareMQ](https://github.com/ffengc/HareMQ) - A C++ version of the simplified message queue component is implemented based on RabbitMQ.
   - [ffengc/Multi-Pattern-Logging-System](https://github.com/ffengc/Multi-Pattern-Logging-System) - C++ version of synchronous & asynchronous logging system.
- - 🧑‍🏫**Course Projects**
+<!-- - 🧑‍🏫**Course Projects**
     - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - Experiment of Distributed Computing
     - [ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases](https://github.com/ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases) - Deep Learning
     - [ffengc/CollegeWorks](https://github.com/ffengc/CollegeWorks) - Unorganized partial course code
@@ -36,6 +36,7 @@
     - [ffengc/NLP-PoetryModels](https://github.com/ffengc/NLP-PoetryModels) - NLP
     - [ffengc/TSP-Solutions-and-Analysis](https://github.com/ffengc/TSP-Solutions-and-Analysis) - Intelligent Control and Computing
     - [**](**) - Technology of Computer Control
+ -->
  
 <!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ffengc&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--  | <a href="https://github.com/ffengc/ffengc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ffengc&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ffengc/ffengc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffengc&layout=compact&theme=default&hide_border=true&hide=html" /></a> | -->
