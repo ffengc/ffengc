@@ -17,9 +17,10 @@
   - [ffengc/Google-tcmalloc-simulation-implementation](https://github.com/ffengc/Google-tcmalloc-simulation-implementation) - Learning and simulation implementation of Google's high-concurrency thread pool tcmalloc.
   - [ffengc/Load-balanced-online-OJ-system](https://github.com/ffengc/Load-balanced-online-OJ-system) - an online programming OJ service.
   - [ffengc/Reactor-based-HyperWebServer](https://github.com/ffengc/Reactor-based-HyperWebServer) - A HTTP server based on Reactor forwarding mode implemented from scratch.
-  - [ffengc/boost-search-engine](https://github.com/ffengc/boost-search-engine) - search engine project based on boost library. (new prj🎉)
+  - [ffengc/boost-search-engine](https://github.com/ffengc/boost-search-engine) - search engine project based on boost library.
   - [ffengc/HareMQ](https://github.com/ffengc/HareMQ) - A C++ version of the simplified message queue component is implemented based on RabbitMQ.
   - [ffengc/Multi-Pattern-Logging-System](https://github.com/ffengc/Multi-Pattern-Logging-System) - C++ version of synchronous & asynchronous logging system.
+  - [ffengc/NimbusBackup](https://github.com/ffengc/NimbusBackup) - Coming Soon 🎉🎉
 <!-- - 🧑‍🏫**Course Projects**
     - [ffengc/MIT6.824](https://github.com/ffengc/MIT6.824) - Experiment of Distributed Computing
     - [ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases](https://github.com/ffengc/SYSU-Intelligent-Diagnosis-of-Spinal-Diseases) - Deep Learning
